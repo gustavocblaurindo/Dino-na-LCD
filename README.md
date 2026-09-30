@@ -1,6 +1,6 @@
 # Dino na LCD
 
-Jogo do dino desenvolvido em C para o microcontrolador AT89S52 (família 8051). Este é um jogo do dinossauro em display LCD 16x2 e um jogo de corrida em display gráfico (GLCD) 128x64. É utilizado teclado matricial como controle e foram feitos com leitura de datasheets e manipulação direta das portas do microcontrolador.
+Jogo do dino desenvolvido em C para o microcontrolador AT89S52 (família 8051), como projeto da disciplina de Sistemas Embarcados (UFSCar), realizado em dupla. Este é um jogo do dinossauro em display LCD 16x2 e um jogo de corrida em display gráfico (GLCD) 128x64. É utilizado teclado matricial como controle e foram feitos com leitura de datasheets e manipulação direta das portas do microcontrolador.
 
 <img width="306" height="324" alt="image" src="https://github.com/user-attachments/assets/e3864bfb-131e-496e-8d90-1dd6dfc8b908" />
 
